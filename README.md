@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Quantum Computing, Qiskit and Vue.js
 - 💬 Ask me about Quantum Computing, Django, Python
 - 📫 How to reach me: ![Twitter](https://twitter.com/thetronjohnson)
-- 🕸️ Website ![](https://kiranjohns.xyz)
+- 🕸️ Website ![kiranjohns.xyz](https://kiranjohns.xyz)
 
 <!--
 **thetronjohnson/thetronjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
