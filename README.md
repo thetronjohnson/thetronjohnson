@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a CSE sophomore
+- 🔭 3rd year CSE student
 - 🌱 I’m currently learning Quantum Computing, Qiskit and Vue.js
 - 💬 Ask me about Quantum Computing, Django, Python
 - 📫 How to reach me: [Twitter](https://twitter.com/thetronjohnson)
