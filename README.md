@@ -1,9 +1,11 @@
 ### Hi there 👋
 - 🔭 3rd year CSE student
-- 🌱 I’m currently learning Quantum Computing, Qiskit and Vue.js
-- 💬 Ask me about Quantum Computing, Django, Python
+- 🌱 I’m currently learning life
+- 😄 Pronouns: he/him
+- 💬 Ask me about Product Management, Quantum Computing, Django, Python
 - 📫 How to reach me: [Twitter](https://twitter.com/thetronjohnson)
 - 🕸️ Website [kiranjohns.com](https://kiranjohns.com)
+- ⚡ Fun fact: idk you tell me XD
 
 <!--
 **thetronjohnson/thetronjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
