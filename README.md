@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Aspiring Product Manager
-- 🔭 3rd year CSE student
+- 🔭 Final year CSE student
 - 🌱 I’m currently learning life
 - 😄 Pronouns: he/him
 - 💬 Ask me about Product Management, Quantum Computing, Django, Python
