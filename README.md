@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Product Manager
 - 🌱 I’m currently in the process of figuring out my identity without tying it to my job
 - 😄 Pronouns: he/him
 - 💬 Ask me about Product Management, Quantum Computing, Django, Python
