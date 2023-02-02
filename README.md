@@ -1,13 +1,11 @@
 ### Hi there 👋
-#### Aspiring Product Manager
-- 🔭 Final year CSE student
-- 🌱 I’m currently learning life
+#### Product Manager
+- 🌱 I’m currently in the process of figuring out my identity without tying it to my job
 - 😄 Pronouns: he/him
 - 💬 Ask me about Product Management, Quantum Computing, Django, Python
 - 📫 How to reach me: [Twitter](https://twitter.com/thetronjohnson)
 - 🕸️ Website [kiranjohns.com](https://kiranjohns.com)
-- ⚡ Fun fact: idk you tell me XD
-
+- ⚡ Fun fact: I play the piano! Meet DJ KJ my alter ego with a MIDI Keyboard
 <!--
 **thetronjohnson/thetronjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
